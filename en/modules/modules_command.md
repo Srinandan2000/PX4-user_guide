@@ -181,7 +181,7 @@ hist [arguments...]
 ## i2cdetect
 Source: [systemcmds/i2cdetect](https://github.com/PX4/PX4-Autopilot/tree/main/src/systemcmds/i2cdetect)
 
-Utility to scan for I2C devices on a particular bus.
+Utility to scan for I2C devices on a particular 
 <a id="i2cdetect_usage"></a>
 ### Usage
 ```
